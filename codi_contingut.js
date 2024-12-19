@@ -12,4 +12,5 @@ window.onload = function() {
             mostra(this, this.getAttribute("funcio_soldats"));
         }
     }
+    ll_enll[0].classlist.remove("noVisible");
 }
